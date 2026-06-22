@@ -25,7 +25,7 @@
 
 ###
 
-<h2 align="center">Hi 👋! My name is muhammad yahya al hakim and I'm a frontend developer</h2>
+<h2 align="center">Hi 👋! My name is muhammad yahya al hakim and I'm a fullstack developer</h2>
 
 ###
 
